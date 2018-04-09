@@ -1,0 +1,26 @@
+#forms{
+    width: 600px;
+    margin: 20px auto;
+    padding: 40px;
+    border: 2px solid black;
+}
+
+#btn-submit{
+    margin-top: 5px;
+    float: right;
+}
+
+table{
+    float: left;
+}
+#result-wrapper{
+    width: 600px;
+    margin: 20px auto;
+    padding: 40px;
+}
+.title{
+    text-align: center;
+}
+.lang{
+    margin-top: 10px;
+}
